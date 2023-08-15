@@ -1,0 +1,15 @@
+/Users/admin/Desktop/домашние задания/Git/itogiblokadz/bin/Debug/net6.0/itogiblokadz
+/Users/admin/Desktop/домашние задания/Git/itogiblokadz/bin/Debug/net6.0/itogiblokadz.deps.json
+/Users/admin/Desktop/домашние задания/Git/itogiblokadz/bin/Debug/net6.0/itogiblokadz.runtimeconfig.json
+/Users/admin/Desktop/домашние задания/Git/itogiblokadz/bin/Debug/net6.0/itogiblokadz.dll
+/Users/admin/Desktop/домашние задания/Git/itogiblokadz/bin/Debug/net6.0/itogiblokadz.pdb
+/Users/admin/Desktop/домашние задания/Git/itogiblokadz/obj/Debug/net6.0/itogiblokadz.csproj.AssemblyReference.cache
+/Users/admin/Desktop/домашние задания/Git/itogiblokadz/obj/Debug/net6.0/itogiblokadz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/домашние задания/Git/itogiblokadz/obj/Debug/net6.0/itogiblokadz.AssemblyInfoInputs.cache
+/Users/admin/Desktop/домашние задания/Git/itogiblokadz/obj/Debug/net6.0/itogiblokadz.AssemblyInfo.cs
+/Users/admin/Desktop/домашние задания/Git/itogiblokadz/obj/Debug/net6.0/itogiblokadz.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/домашние задания/Git/itogiblokadz/obj/Debug/net6.0/itogiblokadz.dll
+/Users/admin/Desktop/домашние задания/Git/itogiblokadz/obj/Debug/net6.0/refint/itogiblokadz.dll
+/Users/admin/Desktop/домашние задания/Git/itogiblokadz/obj/Debug/net6.0/itogiblokadz.pdb
+/Users/admin/Desktop/домашние задания/Git/itogiblokadz/obj/Debug/net6.0/itogiblokadz.genruntimeconfig.cache
+/Users/admin/Desktop/домашние задания/Git/itogiblokadz/obj/Debug/net6.0/ref/itogiblokadz.dll
